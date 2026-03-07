@@ -9,5 +9,34 @@
             "time": "2026-03-07 22:27:04",
             "world": "8IUX"
         }
+    ],
+    "Cutaway Building Seed": [
+        {
+            "pos": [
+                45,
+                47
+            ],
+            "price": -8,
+            "time": "2026-03-07 22:27:28",
+            "world": "BUYCUTAWAY"
+        },
+        {
+            "pos": [
+                46,
+                47
+            ],
+            "price": -8,
+            "time": "2026-03-07 22:27:28",
+            "world": "BUYCUTAWAY"
+        },
+        {
+            "pos": [
+                47,
+                47
+            ],
+            "price": -8,
+            "time": "2026-03-07 22:27:28",
+            "world": "BUYCUTAWAY"
+        }
     ]
 }
